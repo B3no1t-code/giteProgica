@@ -23,7 +23,7 @@
 
 -npm install
 
--Vérifier fichier .env faire les modifs si nécessaire (DATABASE_URL)
+-Vérifier le fichier .env faire les modifications si nécessaire (DATABASE_URL)
 
 -php bin/console doctrine:database:create
 
