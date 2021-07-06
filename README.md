@@ -18,7 +18,7 @@
      - Par Ville
      - Par équipement 
 ---
-### Istallation
+### Installation
 ---
 -Git clone https://github.com/B3no1t-code/giteProgica
 
@@ -26,7 +26,7 @@
 
 -npm install
 
--Vérifier fichier .env faire les modifs nécessaire (DATABASE_URL)
+-Vérifier fichier .env faire les modifs si nécessaire (DATABASE_URL)
 
 -php bin/console doctrine:database:create
 
