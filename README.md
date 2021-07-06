@@ -14,9 +14,6 @@
 - Mettre en place un formulaire de recherche de Gite avec la possibilité de rechercher
      - Par surface min
      - Par Chambre max
-     - Si les animaux sont accepté 
-     - Par Ville
-     - Par équipement 
 ---
 ### Installation
 ---
