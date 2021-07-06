@@ -20,7 +20,7 @@
 ---
 ### Istallation
 ---
--Git clone https://github.com/B3no1t-code/giteProgica.git
+-Git clone https://github.com/B3no1t-code/giteProgica
 
 -composer update
 
