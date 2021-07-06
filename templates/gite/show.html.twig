@@ -31,6 +31,14 @@
                         <td>Refuser</td>
                     {% endif %}
                 </tr>
+                 <tr>
+                    <th>Équipements</th>
+                    <td>
+                        {% for eq in gite.equipements %}
+                            <li>{{ eq.name }}</li>
+                        {% endfor %}
+                    </td>
+                </tr>
             </tbody>
         </table>
     </div>
