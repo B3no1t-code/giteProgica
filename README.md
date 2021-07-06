@@ -15,7 +15,7 @@
      - Par surface min
      - Par Chambre max
 ---
-### Installation
+### Installation de giteProgica
 ---
 -Git clone https://github.com/B3no1t-code/giteProgica
 
