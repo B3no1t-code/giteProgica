@@ -3,7 +3,7 @@
 namespace App\DataFixtures;
 
 use App\Entity\Equipement;
-use Faker;
+use Faker\Factory;
 use App\Entity\Gite;
 use Doctrine\Persistence\ObjectManager;
 use Doctrine\Bundle\FixturesBundle\Fixture;
@@ -12,7 +12,7 @@ class GiteFixtures extends Fixture
 {
     public function load(ObjectManager $manager)
     {
-        $faker = Faker\Factory::create('fr_FR');
+        $faker = Factory::create('fr_FR');
         $equipements = [];
 
         $eq1 = new Equipement();
